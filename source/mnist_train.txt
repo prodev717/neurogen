@@ -1,1 +1,2 @@
 link :- http://www.pjreddie.com/media/files/mnist_train.csv
+download this file and save it as mnist_train.csv(for ann mnist.py)
